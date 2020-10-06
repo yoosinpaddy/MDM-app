@@ -155,6 +155,7 @@ public class MainActivity extends AppCompatActivity {
             b.webView.loadUrl("about:blank");
         }
         b.webView.loadUrl("https://constantcontact.com");
+        //new one
 
     }
     public void thumbPrintApp(View v) {
